@@ -14,7 +14,3 @@ function hyoji(){
 function startfnc(){
   //関数hyoji()を1000ミリ秒数間隔で呼び出す
   setInterval("hyoji()",1000);}
-
-      const str = 'Mozilla';
-      console.log(str.substr(1,2)); // expected output: "oz"
-      console.log(str.substr(2)); // expected output: "zilla"
